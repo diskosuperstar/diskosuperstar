@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diskosuperstar
-- 👀 I’m interested in ETL development, SQL, Python, administration of various systems
+- 👀 I’m interested in Data Engineering, SQL, Python, administration of various systems
 - 🌱 I’m currently learning Python and Microsoft Azure
 
 <!---
